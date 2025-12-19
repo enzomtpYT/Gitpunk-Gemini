@@ -1,0 +1,5 @@
+{
+  "name": "GitPunk Analyst",
+  "description": "A Cyberpunk-themed GitHub profile analyzer powered by Gemini AI.",
+  "requestFramePermissions": []
+}
